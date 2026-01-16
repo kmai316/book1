@@ -12,14 +12,14 @@
 
 .bb-custom-wrapper .bb-bookblock {
 
-    width: 100%;
+    width: 85%;
 
-    height: 100%;
+    height: 90%;
 
     box-shadow: 0 12px 20px -10px rgba(81,64,49,0.6);
 
-    -webkit-perspective: 816px;
+    -webkit-perspective: 1000px;
 
-    perspective: 1056px;
+    perspective: 1000px;
 
 }
